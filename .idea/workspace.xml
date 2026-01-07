@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48d2fad1-290e-4586-b791-a183d1e7a786" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/initial_multimodal-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/initial_multimodal.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Tabular_models-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/cnn_image_only-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/data_understanding-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/data_understanding-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/model_comparisions-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/multimodel_training-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Tabular_models.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/cnn_image_only.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/data_understanding.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/data_understanding.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/model_comparisions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/multimodel_training.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/uncontrolled_cnn_multimodel-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/uncontrolled_cnn_multimodel-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/final_multimodal.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/final_multimodal.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/uncontrolled_cnn_multimodel.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/uncontrolled_cnn_multimodel.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
