@@ -3,7 +3,6 @@ import math
 import time
 import requests
 import pandas as pd
-
 # -----------------------------
 # CONFIG
 # -----------------------------
@@ -16,7 +15,6 @@ ESRI_URL = (
     "https://services.arcgisonline.com/ArcGIS/rest/services/"
     "World_Imagery/MapServer/tile"
 )
-
 # -----------------------------
 # LAT/LON → TILE CONVERSION
 # -----------------------------
