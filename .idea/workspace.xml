@@ -6,14 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="48d2fad1-290e-4586-b791-a183d1e7a786" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/final_multimodal-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/final_multimodal-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/final_multimodal.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/final_multimodal.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/X_test_scaled.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/best_model.pth" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/comprehensive_evaluation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/test_feature_cols.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/test_ids.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/validation_predictions.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +42,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\keshav bansal\PycharmProjects\PythonProject2\Satellite-Imagery-Based-Property-Valuation\output" />
       <recent name="C:\Users\keshav bansal\PycharmProjects\PythonProject2\Satellite-Imagery-Based-Property-Valuation" />
     </key>
   </component>
