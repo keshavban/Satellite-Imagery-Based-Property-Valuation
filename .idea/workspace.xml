@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48d2fad1-290e-4586-b791-a183d1e7a786" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/initial_multimodal-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/initial_multimodal.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/uncontrolled_cnn_multimodel-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/uncontrolled_cnn_multimodel-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/X_scaled.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/feature_cols.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/ids.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/scaler.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/train_df_full.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/train_idx.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/val_idx.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/y.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/data_understanding.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/data_understanding.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/final_multimodal.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/final_multimodal.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/uncontrolled_cnn_multimodel.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/uncontrolled_cnn_multimodel.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
